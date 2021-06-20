@@ -28,7 +28,7 @@ _Figma_
 * Lastly, We made low & high-fidelity.
 
 _HTML & CSS_
-* I **tried** to code some of my screens, but it didn't completely come our functioning, but I did attempt it. :)
+* I **tried** to code some of my screens, but it didn't completely come out functioning, but I learned alot trying. :)
 
 **Process**
 
